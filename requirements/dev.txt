@@ -1,0 +1,5 @@
+django-debug-toolbar==0.9.4
+flake8==2.0
+mccabe==0.2.1
+pep8==1.4.6
+pyflakes==0.7.3
