@@ -112,6 +112,9 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable the admin:
     'django.contrib.admin',
     'south',
+    'tastypie',
+    'cellar.wines',
+    'cellar.api',
 )
 
 # Make this unique, and don't share it with anybody.
