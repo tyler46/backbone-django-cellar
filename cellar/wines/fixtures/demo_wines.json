@@ -6,7 +6,7 @@
             "picture": "wine/img/DOMAINE SERENE/domaine_serene.jpg", 
             "name": "DOMAINE SERENE", 
             "country": "USA", 
-            "notes": "Though subtle in its complexities, this wine is sure to please a wide range of enthousiasts, Notes of pomegranate will delight as the nutty finish completes the picture of a fine sipping experience.", 
+            "description": "Though subtle in its complexities, this wine is sure to please a wide range of enthousiasts, Notes of pomegranate will delight as the nutty finish completes the picture of a fine sipping experience.", 
             "grapes": "Pinot Noir", 
             "year": "2007-01-10T12:48:00Z", 
             "region": "Oregon"
@@ -19,7 +19,7 @@
             "picture": "wine/img/CHATEAU DE SAINT COSME/saint_cosme.jpg",
             "name": "CHATEAU DE SAINT COSME",
             "country": "France",
-            "notes": "The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes.",
+            "description": "The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes.",
             "grapes": "Grenache / Syrah",
             "year": "2009-01-10T12:48:00Z",
             "region": "Southern Rhone"
@@ -32,7 +32,7 @@
             "picture": "wine/img/LAN RIOJA CRIANZA/lan_rioja.jpg",
             "name": "LAN RIOJA CRIANZA",
             "country": "Spain",
-            "notes": "The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes.",
+            "description": "The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes.",
             "grapes": "Tempranillo",
             "year": "2006-01-10T12:48:00Z",
             "region": "Rioja"
@@ -45,7 +45,7 @@
             "picture": "wine/img/MARGERUM SYBARITE/margerum.jpg",
             "name": "MARGERUM SYBARITE",
             "country": "USA",
-            "notes": "The cache of a fine Cabernet in ones wine cellar can now be replaced with a childishly playful wine bubbling over with tempting tastes of black cherry and licorice. This is a taste sure to transport you back in time.",
+            "description": "The cache of a fine Cabernet in ones wine cellar can now be replaced with a childishly playful wine bubbling over with tempting tastes of black cherry and licorice. This is a taste sure to transport you back in time.",
             "grapes": "Sauvignon Blanc",
             "year": "2010-01-10T12:48:00Z",
             "region": "California Central Cosat"
@@ -58,7 +58,7 @@
             "picture": "wine/img/OWEN ROE \"EX UMBRIS\"/ex_umbris.jpg",
             "name": "OWEN ROE \"EX UMBRIS\"",
             "country": "USA",
-            "notes": "A one-two punch of black pepper and jalapeno will send your senses reeling, as the orange essence snaps you back to reality. Don't miss this award-winning taste sensation.",
+            "description": "A one-two punch of black pepper and jalapeno will send your senses reeling, as the orange essence snaps you back to reality. Don't miss this award-winning taste sensation.",
             "grapes": "Syrah",
             "year": "2009-01-10T12:48:00Z",
             "region": "Washington"
@@ -71,7 +71,7 @@
             "picture": "wine/img/REX HILL/rex_hill.jpg",
             "name": "REX HILL",
             "country": "USA",
-            "notes": "One cannot doubt that this will be the wine served at the Hollywood award shows, because it has undeniable star power. Be the first to catch the debut that everyone will be talking about tomorrow.",
+            "description": "One cannot doubt that this will be the wine served at the Hollywood award shows, because it has undeniable star power. Be the first to catch the debut that everyone will be talking about tomorrow.",
             "grapes": "Pinot Noir",
             "year": "2009-01-10T12:48:00Z",
             "region": "Oregon"
@@ -84,7 +84,7 @@
             "picture": "wine/img/VITICCIO CLASSICO RISERVA/viticcio.jpg",
             "name": "VITICCIO CLASSICO RISERVA",
             "country": "Italy",
-            "notes": "Though soft and rounded in texture, the body of this wine is full and rich and oh-so-appealing. This delivery is even more impressive when one takes note of the tender tannins that leave the taste buds wholly satisfied.",
+            "description": "Though soft and rounded in texture, the body of this wine is full and rich and oh-so-appealing. This delivery is even more impressive when one takes note of the tender tannins that leave the taste buds wholly satisfied.",
             "grapes": "Sangiovese Merlot",
             "year": "2007-01-10T12:48:00Z",
             "region": "Tuscany"
@@ -97,7 +97,7 @@
             "picture": "wine/img/CHATEAU LE DOYENNE/le_doyenne.jpg",
             "name": "CHATEAU LE DOYENNE",
             "country": "France",
-            "notes": "Though dense and chewy, this wine does not overpower with its finely balanced depth and structure. It is a truly luxurious experience for the\nsenses.",
+            "description": "Though dense and chewy, this wine does not overpower with its finely balanced depth and structure. It is a truly luxurious experience for the\nsenses.",
             "grapes": "Merlot",
             "year": "2005-01-10T12:48:00Z",
             "region": "Bordeaux"
@@ -110,7 +110,7 @@
             "picture": "wine/img/DOMAINE DU BOUSCAT/bouscat.jpg",
             "name": "DOMAINE DU BOUSCAT",
             "country": "France",
-            "notes": "The light golden color of this wine belies the bright flavor it holds. A true summer wine, it begs for a picnic lunch in a sun-soaked vineyard.",
+            "description": "The light golden color of this wine belies the bright flavor it holds. A true summer wine, it begs for a picnic lunch in a sun-soaked vineyard.",
             "grapes": "Merlot",
             "year": "2009-01-10T12:48:00Z",
             "region": "Bordeaux"
@@ -123,7 +123,7 @@
             "picture": "wine/img/BLOCK NINE/block_nine.jpg",
             "name": "BLOCK NINE",
             "country": "USA",
-            "notes": "With hints of ginger and spice, this wine makes an excellent complement to light appetizer and dessert fare for a holiday gathering.",
+            "description": "With hints of ginger and spice, this wine makes an excellent complement to light appetizer and dessert fare for a holiday gathering.",
             "grapes": "Pinot Noir",
             "year": "2009-01-10T12:48:00Z",
             "region": "California"
@@ -136,7 +136,7 @@
             "picture": "wine/img/BODEGA LURTON/bodega_lurton.jpg",
             "name": "BODEGA LURTON",
             "country": "Argentina",
-            "notes": "Solid notes of black currant blended with a light citrus make this wine an easy pour for varied palates.",
+            "description": "Solid notes of black currant blended with a light citrus make this wine an easy pour for varied palates.",
             "grapes": "Pinot Gris",
             "year": "2011-01-10T12:48:00Z",
             "region": "Mendoza"
@@ -149,7 +149,7 @@
             "picture": "wine/img/LES MORIZOTTES/morizottes.jpg",
             "name": "LES MORIZOTTES",
             "country": "France",
-            "notes": "Breaking the mold of the classics, this offering will surprise and undoubtedly get tongues wagging with the hints of coffee and tobacco in perfect alignment with more traditional notes. Sure to please the late-night crowd with the slight jolt of adrenaline it brings.",
+            "description": "Breaking the mold of the classics, this offering will surprise and undoubtedly get tongues wagging with the hints of coffee and tobacco in perfect alignment with more traditional notes. Sure to please the late-night crowd with the slight jolt of adrenaline it brings.",
             "grapes": "Chardonnay",
             "year": "2009-01-10T12:48:00Z",
             "region": "Mendoza"

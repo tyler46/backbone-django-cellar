@@ -15,7 +15,7 @@ class Wine(models.Model):
     country = models.CharField(max_length=200, null=True, blank=True)
     region = models.CharField(max_length=200, null=True, blank=True)
     year = models.DateTimeField()
-    notes = models.TextField(blank=True, help_text='Add description or additional info about the wine')
+    description = models.TextField(blank=True, help_text='Add description or additional info about the wine')
     picture = models.ImageField(upload_to=_get_upload_path)
 
     def __unicode__(self):

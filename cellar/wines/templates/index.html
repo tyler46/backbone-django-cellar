@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Backbone Cellar</title>
+        <link rel="stylesheet" href="{{ STATIC_URL }}css/styles.css" />
+    </head>
+    <body>
+        <div id="header"><span class="title">Backbone Cellar</span></div>
+
+        <div id="sidebar"></div>
+
+        <div id="content">
+            <h2>Wellcome to Backbone Cellar</h2>
+            <p>
+                This is a sample application part of three-part tutorial showing how to build a CRUD application with Backbone.js.
+            </p>
+        </div>
+
+        <!-- Templates -->
+        <script type="text/template" id="tpl-wine-list-item">
+            <a href='#wines/<%= id %>'><%= name %></a>
+        </script>
+
+        <script type="text/template" id="tpl-wine-details">
+            <div class="form-left-col">
+                <label>Id:</label>
+                <Input type="text" id="wineId" name="id" value="<%= id %>" disabled />
+                <label>Name:</label>
+                <Input type="text" id="name" name="name" value="<%= name %>" required />
+                <label>Grapes:</label>
+                <Input type="text" id="grapes" name="grapes" value="<%= grapes %>" />
+                <label>Country:</label>
+                <Input type="text" id="country" name="country" value="<%= country %>" />
+                <label>Region:</label>
+                <Input type="text" id="region" name="region" value="<%= region %>" />
+                <label>Year:</label>
+                <input type="text" id="year" name="year" value="<%= year %>" />
+            </div>
+            <div class="form-right-col">
+                <img height="300" src="{{ MEDIA_URL }}wine/img/<%= name %>/<%= picture %>" />
+                <label>Notes:</label>
+                <textarea id="description" name="description"><%= description %></textarea>
+            </div>
+        </script>
+
+        <!-- Javascripts -->
+        <script src="{{ STATIC_URL }}main.js"></script>
+    </body>
+</html>
