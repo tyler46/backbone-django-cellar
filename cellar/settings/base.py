@@ -113,6 +113,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'south',
     'tastypie',
+    'product_details',
     'cellar.wines',
     'cellar.api',
 )
