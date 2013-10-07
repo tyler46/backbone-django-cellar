@@ -112,7 +112,7 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable the admin:
     'django.contrib.admin',
     'south',
-    'tastypie',
+    'rest_framework',
     'cellar.wines',
     'cellar.api',
 )
