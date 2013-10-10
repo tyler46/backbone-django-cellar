@@ -9,6 +9,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
     # Examples:
+    url(r'^cellar/', include('cellar.wines.urls')),
     # url(r'^$', 'cellar.views.home', name='home'),
     # url(r'^cellar/', include('cellar.foo.urls')),
 
