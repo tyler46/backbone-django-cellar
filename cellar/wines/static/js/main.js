@@ -3,7 +3,13 @@ window.Wine = Backbone.Model.extend();
 
 window.WineCollection = Backbone.Collection.extend({
     model:Wine,
-    url:"/api/v1/wines/"
+    url: function() {
+        return "/api/v1/wines/"
+    },
+    parse: function(response) {
+        return response.objects;
+    }
+//  url:"/api/v1/wines/"
 });
 
 
