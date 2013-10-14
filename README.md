@@ -13,4 +13,6 @@ appproach by exploring the two major webservice API frameworks for Django.
 * [Django REST framework](http://django-rest-framework.org)
 
 
+Moreover Backbone application is splitted in modules rather than in a single file.
+
 > Many thanks to Cristophe Coenraets for his great tutorial
