@@ -2,4 +2,4 @@
 *.swp
 cellar/settings/local.py
 media/
-static/
+./static/
